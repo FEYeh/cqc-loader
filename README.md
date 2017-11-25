@@ -64,6 +64,7 @@ module: {
 <p align="center">
   <img alt="console" src="./assets/console.gif" height="256" width="1040">
 </p>
+
 ### 浏览器控制台信息
 <p align="center">
   <img alt="browser" src="./assets/browser.gif" height="508" width="1154">
