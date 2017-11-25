@@ -1,0 +1,28 @@
+{
+  "name": "cqc-loader",
+  "version": "0.0.1",
+  "description": "cqc loader (for webpack)",
+  "main": "index.js",
+  "keywords": [
+    "cqc",
+    "loader",
+    "webpack"
+  ],
+  "repository": "git@github.com:FEYeh/cqc-loader.git",
+  "author": "FEYeh",
+  "license": "MIT",
+  "dependencies": {
+    "console-custom": "^1.1.3",
+    "cqc": "^0.5.1",
+    "loader-utils": "^0.2.16",
+    "object-assign": "^4.0.1"
+  },
+  "devDependencies": {
+    "babel-loader": "^7.1.2",
+    "eslint": "^3.19.0",
+    "webpack": "^1.13.3"
+  },
+  "scripts": {
+    "test": "webpack --config webpack.dev.js"
+  }
+}
