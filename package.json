@@ -9,7 +9,7 @@
     "webpack"
   ],
   "repository": "git@github.com:FEYeh/cqc-loader.git",
-  "author": "FEYeh",
+  "author": "feyeh",
   "license": "MIT",
   "dependencies": {
     "console-custom": "^1.1.3",
